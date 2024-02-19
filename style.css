@@ -1,0 +1,15 @@
+.nav-linl{
+    text-transform: uppercase;
+}
+.navbar{
+    padding: 20px 10px;
+}
+.nav-link a{
+    color: black!important
+}
+.navbar-nav{
+    gap: 16px; ;
+}
+.navbar-nav a{
+    gap: 16px;color: rgb(5,4,4);
+}
